@@ -1,8 +1,8 @@
 0b7126e0c6e86d3ec295a72f5aa6e0bd
-::res://::1665113200
+::res://::1665124711
 icon.svg::CompressedTexture2D::5885167136374619494::1665111537::1665111542::1::::<><>::
 README.md::TextFile::-1::1665111663::0::1::::<><>::
-::res://Assets/::1665112209
+::res://Assets/::1665124866
 ::res://Assets/AI & CyberDemon sounds/::1665112885
 alarmed 1.wav::AudioStreamWAV::2276990879885501737::1627094159::1665112885::1::::<><>::
 alarmed 2.wav::AudioStreamWAV::2990851926140683558::1627094353::1665112885::1::::<><>::
@@ -30,11 +30,26 @@ idle 3.wav::AudioStreamWAV::2334184634802435983::1627093956::1665112885::1::::<>
 idle 4.wav::AudioStreamWAV::1754837358463639541::1627093994::1665112885::1::::<><>::
 idle 5.wav::AudioStreamWAV::6424054252474540201::1627094029::1665112885::1::::<><>::
 idle 6.wav::AudioStreamWAV::5018392425106873026::1627094248::1665112885::1::::<><>::
-::res://Assets/Voxel Cyberpunk City/::1665112066
+::res://Assets/gross-dirty-tiles-bl/::1665124873
+gross-dirty-tiles_albedo.png::CompressedTexture2D::4364685961969244943::1638224612::1665125207::1::::<><>::
+gross-dirty-tiles_ao.png::CompressedTexture2D::6831333023705870250::1638224316::1665125261::1::::<><>::
+gross-dirty-tiles_height.png::CompressedTexture2D::487984630195053189::1638224316::1665125261::1::::<><>::
+gross-dirty-tiles_metallic.png::CompressedTexture2D::2268644538888865692::1638224314::1665125241::1::::<><>::
+gross-dirty-tiles_normal-ogl.png::CompressedTexture2D::3922021056047884242::1638224316::1665125261::1::::<><>::
+gross-dirty-tiles_preview.jpg::CompressedTexture2D::4986466696521395288::1639153370::1665124873::1::::<><>::
+gross-dirty-tiles_roughness.png::CompressedTexture2D::6689998395512798014::1638224314::1665125275::1::::<><>::
+::res://Assets/old-textured-fabric-bl/::1665124443
+About these PBR files.txt::TextFile::-1::1478541150::0::1::::<><>::
+old-textured-fabric-albedo3.png::CompressedTexture2D::5711603448298553727::1478461228::1665124317::1::::<><>::
+old-textured-fabric-ao.png::CompressedTexture2D::6832396422002394609::1478461228::1665124398::1::::<><>::
+old-textured-fabric-metalic.png::CompressedTexture2D::3019171647432640741::1478461228::1665124293::1::::<><>::
+old-textured-fabric-normal.png::CompressedTexture2D::1942045610304798129::1581376956::1665124397::1::::<><>::
+old-textured-fabric-roughness2.png::CompressedTexture2D::2406182587155576221::1478461228::1665124443::1::::<><>::
+::res://Assets/Voxel Cyberpunk City/::1665115232
 Advertising_5.fbx::PackedScene::8076619654924921767::1637000548::1665113201::1::::<><>::
 Advertising_6.fbx::PackedScene::2293870972401703103::1637000547::1665113201::1::::<><>::
 Advertising_7.fbx::PackedScene::1508490295393744234::1637000547::1665113201::1::::<><>::
-BuildingBlock_1.fbx::PackedScene::1810004955417301177::1637000544::1665113201::1::::<><>::
+BuildingBlock_1.fbx::PackedScene::3512781189789720966::1637000544::1665115232::1::::<><>::
 BuildingBlock_2.fbx::PackedScene::2556953584916452728::1637000545::1665113201::1::::<><>::
 BuildingBlock_18.fbx::PackedScene::5806911760395410457::1637000546::1665113201::1::::<><>::
 BuildingBlock_19.fbx::PackedScene::8475703481449359638::1637000545::1665113201::1::::<><>::
@@ -57,3 +72,9 @@ VoxelCity_CompositeBuildings_Optimized-0_diffuse.png::CompressedTexture2D::27570
 VoxelCity_CompositeBuildings_Optimized-2_diffuse.png::CompressedTexture2D::450288611958788541::1637000119::1665112885::1::::<><>::
 VoxelCity_CompositeBuildings_Optimized-4_Color.png::CompressedTexture2D::2343604665150558165::1636999001::1665112881::1::::<><>::
 VoxelCity_CompositeBuildings_Optimized-4_diffuse.png::CompressedTexture2D::4947787567371166294::1636999433::1665112884::1::::<><>::
+::res://Materials/::1665124711
+Carpet.tres::StandardMaterial3D::6049863703850318171::1665124692::0::1::::<><>::uid://cnm0jld1ygma6<>uid://c4lwtn5qoeumj<>uid://2w0hb3hmd7dt<>uid://bajtqf4pj7a8l
+::res://Scenes/::1665124712
+root.tscn::PackedScene::6515190138846630475::1665124712::0::1::::<><>::res://Scripts/Player.gd<>uid://csgumvh26u4bv
+::res://Scripts/::1665123278
+Player.gd::GDScript::-1::1665123278::0::1::::<>CharacterBody3D<>::
