@@ -1,3 +1,59 @@
 0b7126e0c6e86d3ec295a72f5aa6e0bd
-::res://::1665111541
+::res://::1665113200
 icon.svg::CompressedTexture2D::5885167136374619494::1665111537::1665111542::1::::<><>::
+README.md::TextFile::-1::1665111663::0::1::::<><>::
+::res://Assets/::1665112209
+::res://Assets/AI & CyberDemon sounds/::1665112885
+alarmed 1.wav::AudioStreamWAV::2276990879885501737::1627094159::1665112885::1::::<><>::
+alarmed 2.wav::AudioStreamWAV::2990851926140683558::1627094353::1665112885::1::::<><>::
+alarmed 3.wav::AudioStreamWAV::4572926343454401983::1627094375::1665112885::1::::<><>::
+alarmed 4.wav::AudioStreamWAV::4649342769208390665::1627094396::1665112885::1::::<><>::
+ambient chatter sound.wav::AudioStreamWAV::986355006265545592::1627094122::1665112885::1::::<><>::
+ambient static sound.wav::AudioStreamWAV::2690690733361405893::1627087654::1665112885::1::::<><>::
+attack sound 1.wav::AudioStreamWAV::1164696561888703316::1627091159::1665112885::1::::<><>::
+attack sound 2.wav::AudioStreamWAV::2104226898788656844::1627093260::1665112885::1::::<><>::
+damage sound 1.wav::AudioStreamWAV::3585047640562538657::1627091893::1665112885::1::::<><>::
+damage sound 2.wav::AudioStreamWAV::9208425692033842459::1627092091::1665112885::1::::<><>::
+damage sound 3.wav::AudioStreamWAV::6754732107687628677::1627086291::1665112885::1::::<><>::
+damage sound 4.wav::AudioStreamWAV::2148736561331130652::1627093533::1665112885::1::::<><>::
+death sound 1.wav::AudioStreamWAV::2819568744632340545::1627086740::1665112885::1::::<><>::
+death sound 2.wav::AudioStreamWAV::5420365997433951582::1627087013::1665112885::1::::<><>::
+death sound 3.wav::AudioStreamWAV::8509067317638834526::1627087338::1665112885::1::::<><>::
+flying sound 1.wav::AudioStreamWAV::4907567104199992164::1627094067::1665112885::1::::<><>::
+flying sound 2.wav::AudioStreamWAV::8723221721147215945::1627094188::1665112885::1::::<><>::
+flying sound 3.wav::AudioStreamWAV::8570408906429470142::1627094222::1665112885::1::::<><>::
+flying sound 4.wav::AudioStreamWAV::4599457576536454533::1627094272::1665112885::1::::<><>::
+flying sound 5.wav::AudioStreamWAV::1857832693757239592::1627094291::1665112885::1::::<><>::
+idle 1.wav::AudioStreamWAV::7859005809389391696::1627088601::1665112885::1::::<><>::
+Idle 2.wav::AudioStreamWAV::4895092721135645562::1627088618::1665112885::1::::<><>::
+idle 3.wav::AudioStreamWAV::2334184634802435983::1627093956::1665112885::1::::<><>::
+idle 4.wav::AudioStreamWAV::1754837358463639541::1627093994::1665112885::1::::<><>::
+idle 5.wav::AudioStreamWAV::6424054252474540201::1627094029::1665112885::1::::<><>::
+idle 6.wav::AudioStreamWAV::5018392425106873026::1627094248::1665112885::1::::<><>::
+::res://Assets/Voxel Cyberpunk City/::1665112066
+Advertising_5.fbx::PackedScene::8076619654924921767::1637000548::1665113201::1::::<><>::
+Advertising_6.fbx::PackedScene::2293870972401703103::1637000547::1665113201::1::::<><>::
+Advertising_7.fbx::PackedScene::1508490295393744234::1637000547::1665113201::1::::<><>::
+BuildingBlock_1.fbx::PackedScene::1810004955417301177::1637000544::1665113201::1::::<><>::
+BuildingBlock_2.fbx::PackedScene::2556953584916452728::1637000545::1665113201::1::::<><>::
+BuildingBlock_18.fbx::PackedScene::5806911760395410457::1637000546::1665113201::1::::<><>::
+BuildingBlock_19.fbx::PackedScene::8475703481449359638::1637000545::1665113201::1::::<><>::
+BuildingBlock_24.fbx::PackedScene::4579542050559090147::1637000546::1665113201::1::::<><>::
+Building_3.fbx::PackedScene::2927176256028115439::1637000550::1665113202::1::::<><>::
+Road_Chunk_5.fbx::PackedScene::9180404230671364899::1637000549::1665113202::1::::<><>::
+SateliteDish.fbx::PackedScene::4943969696525668574::1637000548::1665113202::1::::<><>::
+Sidewalk_Chunk_2.fbx::PackedScene::8059513490557653933::1637000549::1665113202::1::::<><>::
+Sidewalk_Tile_1.fbx::PackedScene::2023230304472385599::1637000550::1665113202::1::::<><>::
+::res://Assets/Voxel Cyberpunk City/Textures/::1665112885
+BAKE_Buildings_001Emissive- 4K.png::CompressedTexture2D::6089154026184325218::1629911798::1665112881::1::::<><>::
+BAKE_Buildings_002Emissive- 4K.png::CompressedTexture2D::3136664340676249789::1629911800::1665112881::1::::<><>::
+BAKE_PropsEmissive- 4K.png::CompressedTexture2D::8772195020169446939::1629911801::1665112881::1::::<><>::
+BAKE_RoadsEmissive- 4K.png::CompressedTexture2D::6479091525944469762::1629911803::1665112880::1::::<><>::
+T_Buildings_001Diffuse- 4K.png::CompressedTexture2D::7645384146033849080::1629897712::1665112884::1::::<><>::
+T_Buildings_002Diffuse- 4K.png::CompressedTexture2D::7451179576998691962::1629897717::1665112884::1::::<><>::
+T_PropsDiffuse- 4K.png::CompressedTexture2D::615361925635928824::1629897723::1665112884::1::::<><>::
+T_RoadsDiffuse- 4K.png::CompressedTexture2D::4975704443063694776::1629897728::1665112883::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-0_diffuse.png::CompressedTexture2D::2757050957527426980::1637000049::1665112884::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-2_diffuse.png::CompressedTexture2D::450288611958788541::1637000119::1665112885::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-4_Color.png::CompressedTexture2D::2343604665150558165::1636999001::1665112881::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-4_diffuse.png::CompressedTexture2D::4947787567371166294::1636999433::1665112884::1::::<><>::
