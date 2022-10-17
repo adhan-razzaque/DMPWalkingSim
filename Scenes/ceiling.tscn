@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://bne2gtiti42n8"]
+
+[ext_resource type="Material" uid="uid://drgj6y7ht1kax" path="res://Materials/Ceiling.tres" id="1_1uoqq"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_wxhqf"]
+material = ExtResource("1_1uoqq")
+size = Vector2(10, 10)
+
+[sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_3xjou"]
+data = PackedVector3Array(5, 0, 5, -5, 0, 5, 5, 0, -5, -5, 0, 5, -5, 0, -5, 5, 0, -5)
+
+[node name="Ceiling" type="MeshInstance3D"]
+transform = Transform3D(1, 0, 0, 0, -1, 8.74228e-08, 0, -8.74228e-08, -1, 0, 3, 0)
+mesh = SubResource("PlaneMesh_wxhqf")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+shape = SubResource("ConcavePolygonShape3D_3xjou")

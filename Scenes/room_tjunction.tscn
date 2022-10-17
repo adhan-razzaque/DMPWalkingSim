@@ -1,0 +1,41 @@
+[gd_scene load_steps=5 format=3 uid="uid://dh68rjn8qx6pe"]
+
+[ext_resource type="PackedScene" uid="uid://1ur7x33rigje" path="res://Scenes/floor_ceiling.tscn" id="1_v8wh7"]
+[ext_resource type="PackedScene" uid="uid://djhhvyuphfw4f" path="res://Scenes/wall_10.tscn" id="2_4rspu"]
+[ext_resource type="PackedScene" uid="uid://u73y7evgncn8" path="res://Scenes/Wall.tscn" id="3_h0lsq"]
+[ext_resource type="PackedScene" uid="uid://bmsjmuqfcqiqi" path="res://Scenes/door_frame.tscn" id="4_i1x0g"]
+
+[node name="Room10" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 0, 40)
+
+[node name="FloorCeiling" parent="." instance=ExtResource("1_v8wh7")]
+
+[node name="Wall_10" parent="." instance=ExtResource("2_4rspu")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 0, 1.5, -1)
+
+[node name="Wall" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 4, 1.5, 1)
+
+[node name="Wall2" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 2, 1.5, 1)
+
+[node name="Wall3" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -2, 1.5, 1)
+
+[node name="Wall4" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -4, 1.5, 1)
+
+[node name="Wall5" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, -1, 1.5, 2)
+
+[node name="Wall6" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 1, 1.5, 2)
+
+[node name="Wall7" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, -1, 1.5, 4)
+
+[node name="Wall8" parent="." instance=ExtResource("3_h0lsq")]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 1, 1.5, 4)
+
+[node name="DoorFrame" parent="." instance=ExtResource("4_i1x0g")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1)

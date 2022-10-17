@@ -1,2 +1,5 @@
 res://Scenes/root.tscn
-res://Scripts/Player.gd
+res://Materials/Wall.tres
+res://Materials/OfficeCarpet.tres
+res://Materials/Ceiling.tres
+res://Materials/DarkGrainShaderMat.tres

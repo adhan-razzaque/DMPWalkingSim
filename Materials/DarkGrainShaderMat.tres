@@ -1,0 +1,13 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cpdtngkmlx5jn"]
+
+[ext_resource type="Shader" path="res://Shaders/Grain.gdshader" id="1_lh1xq"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_lh1xq")
+shader_parameter/dark_color = Color(0.521569, 0.407843, 0.298039, 1)
+shader_parameter/light_color = Color(0.607843, 0.447059, 0.247059, 1)
+shader_parameter/noise_scale = 0.03
+shader_parameter/random_scale = 4.6
+shader_parameter/ring_scale = 4.4
+shader_parameter/wave_scale = 8.454

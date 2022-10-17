@@ -1,8 +1,17 @@
 0b7126e0c6e86d3ec295a72f5aa6e0bd
-::res://::1665124711
+::res://::1665975560
+export_presets.cfg::TextFile::-1::1665975475::0::1::::<><>::
 icon.svg::CompressedTexture2D::5885167136374619494::1665111537::1665111542::1::::<><>::
 README.md::TextFile::-1::1665111663::0::1::::<><>::
-::res://Assets/::1665124866
+::res://Assets/::1665974283
+328538__quadraslayer__monster-roar-slow.wav::AudioStreamWAV::5801341083551355076::1665969611::1665969667::1::::<><>::
+401041__eardeer__gateshutthumps.wav::AudioStreamWAV::2670299109122572955::1665972333::1665972347::1::::<><>::
+512241__neospica__muffled-thud.wav::AudioStreamWAV::8969927610732930965::1665968365::1665968378::1::::<><>::
+626096__resaural__backrooms-ambience.wav::AudioStreamWAV::8319420503364485774::1665966941::1665966971::1::::<><>::
+Concrete 2.wav::AudioStreamWAV::7753776116774075073::1592754934::1665964132::1::::<><>::
+looperman-l-2029402-0204554-dark-forrest.wav::AudioStreamWAV::1464004851780789991::1665966269::1665966771::1::::<><>::
+noisy-texture-200x200-o51-d21-c-ffffff-t0.png::CompressedTexture2D::3097340785633839865::1665974258::1665974283::1::::<><>::
+wallpaper_seamless_texture_6586.jpg::CompressedTexture2D::305680485844829509::1665291688::1665291723::1::::<><>::
 ::res://Assets/AI & CyberDemon sounds/::1665112885
 alarmed 1.wav::AudioStreamWAV::2276990879885501737::1627094159::1665112885::1::::<><>::
 alarmed 2.wav::AudioStreamWAV::2990851926140683558::1627094353::1665112885::1::::<><>::
@@ -30,7 +39,15 @@ idle 3.wav::AudioStreamWAV::2334184634802435983::1627093956::1665112885::1::::<>
 idle 4.wav::AudioStreamWAV::1754837358463639541::1627093994::1665112885::1::::<><>::
 idle 5.wav::AudioStreamWAV::6424054252474540201::1627094029::1665112885::1::::<><>::
 idle 6.wav::AudioStreamWAV::5018392425106873026::1627094248::1665112885::1::::<><>::
-::res://Assets/gross-dirty-tiles-bl/::1665124873
+::res://Assets/flaking-plaster1-bl/::1665291095
+flaking-plaster_albedo.png::CompressedTexture2D::5959169375147599358::1629071248::1665291095::1::::<><>::
+flaking-plaster_ao.png::CompressedTexture2D::7142035808795584457::1629071250::1665289939::1::::<><>::
+flaking-plaster_height.png::CompressedTexture2D::2704728899937519311::1629071250::1665289939::1::::<><>::
+flaking-plaster_metallic.png::CompressedTexture2D::265061385990267280::1629071250::1665289939::1::::<><>::
+flaking-plaster_normal-ogl.png::CompressedTexture2D::764408833460701925::1629071250::1665289940::1::::<><>::
+flaking-plaster_preview.jpg::CompressedTexture2D::3154654061766543341::1629114494::1665289939::1::::<><>::
+flaking-plaster_roughness.png::CompressedTexture2D::5830372549301259540::1629071248::1665289939::1::::<><>::
+::res://Assets/gross-dirty-tiles-bl/::1665125275
 gross-dirty-tiles_albedo.png::CompressedTexture2D::4364685961969244943::1638224612::1665125207::1::::<><>::
 gross-dirty-tiles_ao.png::CompressedTexture2D::6831333023705870250::1638224316::1665125261::1::::<><>::
 gross-dirty-tiles_height.png::CompressedTexture2D::487984630195053189::1638224316::1665125261::1::::<><>::
@@ -38,6 +55,24 @@ gross-dirty-tiles_metallic.png::CompressedTexture2D::2268644538888865692::163822
 gross-dirty-tiles_normal-ogl.png::CompressedTexture2D::3922021056047884242::1638224316::1665125261::1::::<><>::
 gross-dirty-tiles_preview.jpg::CompressedTexture2D::4986466696521395288::1639153370::1665124873::1::::<><>::
 gross-dirty-tiles_roughness.png::CompressedTexture2D::6689998395512798014::1638224314::1665125275::1::::<><>::
+::res://Assets/office-carpet-fabric1-bl/::1665290126
+office-carpet-fabric_albedo.png::CompressedTexture2D::3818020777602055824::1588788098::1665290009::1::::<><>::
+office-carpet-fabric_ao.png::CompressedTexture2D::6902915399965217591::1588788026::1665290115::1::::<><>::
+office-carpet-fabric_height.png::CompressedTexture2D::6119933069301720318::1588787996::1665290115::1::::<><>::
+office-carpet-fabric_metallic.png::CompressedTexture2D::6007084959258613746::1588787516::1665290079::1::::<><>::
+office-carpet-fabric_normal-ogl.png::CompressedTexture2D::3928831173859453063::1588787516::1665290115::1::::<><>::
+office-carpet-fabric_preview.jpg::CompressedTexture2D::7955583032167931514::1588787876::1665289939::1::::<><>::
+office-carpet-fabric_roughness.png::CompressedTexture2D::2507629526194785206::1588787516::1665290126::1::::<><>::
+::res://Assets/OfficeCeiling001_2K-JPG/::1665292213
+OfficeCeiling001_2K_AmbientOcclusion.jpg::CompressedTexture2D::2438227013167355372::1611257614::1665292097::1::::<><>::
+OfficeCeiling001_2K_Color.jpg::CompressedTexture2D::4203994743868996055::1611257625::1665292213::1::::<><>::
+OfficeCeiling001_2K_Displacement.jpg::CompressedTexture2D::2836129204591892974::1611257633::1665292097::1::::<><>::
+OfficeCeiling001_2K_Emission.jpg::CompressedTexture2D::117662580224605628::1611257643::1665292096::1::::<><>::
+OfficeCeiling001_2K_Metalness.jpg::CompressedTexture2D::8946783524396453694::1611257646::1665292096::1::::<><>::
+OfficeCeiling001_2K_NormalDX.jpg::CompressedTexture2D::5234289604973522046::1611257660::1665292097::1::::<><>::
+OfficeCeiling001_2K_NormalGL.jpg::CompressedTexture2D::4306714138010459817::1629298627::1665292097::1::::<><>::
+OfficeCeiling001_2K_Roughness.jpg::CompressedTexture2D::7818185376951044202::1611257670::1665292097::1::::<><>::
+OfficeCeiling001_PREVIEW.jpg::CompressedTexture2D::4192301438033428347::1615227123::1665292096::1::::<><>::
 ::res://Assets/old-textured-fabric-bl/::1665124443
 About these PBR files.txt::TextFile::-1::1478541150::0::1::::<><>::
 old-textured-fabric-albedo3.png::CompressedTexture2D::5711603448298553727::1478461228::1665124317::1::::<><>::
@@ -72,9 +107,41 @@ VoxelCity_CompositeBuildings_Optimized-0_diffuse.png::CompressedTexture2D::27570
 VoxelCity_CompositeBuildings_Optimized-2_diffuse.png::CompressedTexture2D::450288611958788541::1637000119::1665112885::1::::<><>::
 VoxelCity_CompositeBuildings_Optimized-4_Color.png::CompressedTexture2D::2343604665150558165::1636999001::1665112881::1::::<><>::
 VoxelCity_CompositeBuildings_Optimized-4_diffuse.png::CompressedTexture2D::4947787567371166294::1636999433::1665112884::1::::<><>::
-::res://Materials/::1665124711
-Carpet.tres::StandardMaterial3D::6049863703850318171::1665124692::0::1::::<><>::uid://cnm0jld1ygma6<>uid://c4lwtn5qoeumj<>uid://2w0hb3hmd7dt<>uid://bajtqf4pj7a8l
-::res://Scenes/::1665124712
-root.tscn::PackedScene::6515190138846630475::1665124712::0::1::::<><>::res://Scripts/Player.gd<>uid://csgumvh26u4bv
-::res://Scripts/::1665123278
-Player.gd::GDScript::-1::1665123278::0::1::::<>CharacterBody3D<>::
+::res://Builds/::1665975434
+::res://Builds/html5/::1665975474
+index.apple-touch-icon.png::CompressedTexture2D::8435831788938603160::1665975474::1665975560::1::::<><>::
+index.icon.png::CompressedTexture2D::3261182603065333720::1665975474::1665975560::1::::<><>::
+index.png::CompressedTexture2D::6894901169483310500::1665975474::1665975561::1::::<><>::
+::res://Builds/Windows-x64/::1665975299
+::res://Materials/::1665975175
+Carpet.tres::StandardMaterial3D::6049863703850318171::1665962836::0::1::::<><>::uid://cnm0jld1ygma6<>uid://c4lwtn5qoeumj<>uid://2w0hb3hmd7dt<>uid://bajtqf4pj7a8l
+Ceiling.tres::StandardMaterial3D::8365461782334778911::1665975175::0::1::::<><>::uid://b05pgdgcn6xsp
+Concrete 2.wav::AudioStreamWAV::5118951018716382110::1665964102::1665964097::1::::<><>::
+DarkGrainShaderMat.tres::ShaderMaterial::5833044324551202463::1665975175::0::1::::<><>::res://Shaders/Grain.gdshader
+HUD_theme.tres::Theme::5243735252837081593::1665961922::0::1::::<><>::
+OfficeCarpet.tres::StandardMaterial3D::3287495161233510824::1665975175::0::1::::<><>::uid://bunqikrnsdp65<>uid://c5l3ajmyf0f1x<>uid://ctgsnyp4u4r6u<>uid://crt42uioivnn3<>uid://bv8fjmnjcmat8<>uid://bbyyj6p51yfu1
+Tiles.tres::StandardMaterial3D::8515210369142889376::1665125327::0::1::::<><>::uid://b3gj0ftdaaoyh<>uid://c4lfb6xwh1tty<>uid://g7nbhd2jk6pl<>uid://7k7ikgg2lkfc<>uid://bv44d4r7rydfm<>uid://c2kxkcmabtio1
+Wall.tres::StandardMaterial3D::1362293352241746980::1665975175::0::1::::<><>::uid://emcro7wbm6a0
+::res://Scenes/::1665975175
+CarpetFloor.tscn::PackedScene::8953909140043168268::1665974341::0::1::::<><>::uid://bm3qthevd2hc7<>uid://bunqikrnsdp65<>uid://c5l3ajmyf0f1x<>uid://ctgsnyp4u4r6u<>uid://crt42uioivnn3<>uid://bv8fjmnjcmat8<>uid://bbyyj6p51yfu1
+ceiling.tscn::PackedScene::3308784246749108367::1665974341::0::1::::<><>::uid://drgj6y7ht1kax
+door.tscn::PackedScene::4473778470126498930::1665973710::0::1::::<><>::res://Shaders/Grain.gdshader
+door_frame.tscn::PackedScene::3266414564798684552::1665973781::0::1::::<><>::uid://cpdtngkmlx5jn
+floor_ceiling.tscn::PackedScene::1867288076538832286::1665965558::0::1::::<><>::uid://d0tlttdyjte5y<>uid://bne2gtiti42n8
+room_corner.tscn::PackedScene::179124335578262454::1665966835::0::1::::<><>::uid://1ur7x33rigje<>uid://u73y7evgncn8
+room_full1door.tscn::PackedScene::5252288375116991055::1665973535::0::1::::<><>::uid://djhhvyuphfw4f<>uid://u73y7evgncn8<>uid://1ur7x33rigje<>uid://bmsjmuqfcqiqi
+room_full2door.tscn::PackedScene::6215210976958630686::1665974341::0::1::::<><>::uid://1ur7x33rigje<>uid://djhhvyuphfw4f<>uid://u73y7evgncn8<>uid://bmsjmuqfcqiqi
+room_hall.tscn::PackedScene::7077028519943661508::1665967867::0::1::::<><>::uid://1ur7x33rigje<>uid://djhhvyuphfw4f
+room_tjunction.tscn::PackedScene::7716614180493358870::1665974341::0::1::::<><>::uid://1ur7x33rigje<>uid://djhhvyuphfw4f<>uid://u73y7evgncn8<>uid://bmsjmuqfcqiqi
+room_widehall.tscn::PackedScene::576212773364864205::1665974341::0::1::::<><>::uid://1ur7x33rigje<>uid://u73y7evgncn8<>uid://djhhvyuphfw4f<>uid://bmsjmuqfcqiqi<>uid://b40eqikq7vrhy
+root.tscn::PackedScene::2806988192414938541::1665975175::0::1::::<><>::res://Scripts/Player.gd<>uid://dip8tbeqdo6e4<>res://Shaders/NoiseOverlay.gdshader<>uid://cg3ioma67q0h4<>uid://bkem0rilvc63f<>uid://cgyds23tgkbg0<>uid://cs1ffj6omagk<>res://Scripts/TimerLabel.gd<>res://Scripts/ScaryTrigger.gd<>uid://d02dnrgtlj57f<>uid://cusxu77hu6887<>uid://ihee1cdb4fof<>uid://c73fvjm0fn2pc<>uid://dqr8v1cy23g0u<>uid://dh68rjn8qx6pe<>uid://cowhifrkhqotw<>uid://bebro3icvkppb
+Wall.tscn::PackedScene::1471581583630836939::1665974341::0::1::::<><>::uid://tn51i8p8v1sa
+wall_10.tscn::PackedScene::7805876100868981551::1665974341::0::1::::<><>::uid://u73y7evgncn8
+::res://Scripts/::1665971835
+Player.gd::GDScript::-1::1665971835::0::1::::<>CharacterBody3D<>::
+ScaryTrigger.gd::GDScript::-1::1665971835::0::1::::<>Area3D<>::
+TimerLabel.gd::GDScript::-1::1665964157::0::1::::<>Label<>::
+::res://Shaders/::1665974940
+CRT-VHS.gdshader::Shader::-1::1665974940::0::1::::<><>::
+Grain.gdshader::Shader::-1::1665974940::0::1::::<><>::
+NoiseOverlay.gdshader::Shader::-1::1665974940::0::1::::<><>::

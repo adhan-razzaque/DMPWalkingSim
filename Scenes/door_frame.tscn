@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=3 uid="uid://bmsjmuqfcqiqi"]
+
+[ext_resource type="Material" uid="uid://cpdtngkmlx5jn" path="res://Materials/DarkGrainShaderMat.tres" id="1_pcboc"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_csyxh"]
+material = ExtResource("1_pcboc")
+size = Vector3(0.2, 3, 0.2)
+
+[sub_resource type="BoxMesh" id="BoxMesh_x7vam"]
+material = ExtResource("1_pcboc")
+size = Vector3(0.2, 2, 0.2)
+
+[node name="DoorFrame" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5)
+
+[node name="FrameLeft" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 1.5, 0)
+mesh = SubResource("BoxMesh_csyxh")
+
+[node name="FrameRight" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1.5, 0)
+mesh = SubResource("BoxMesh_csyxh")
+
+[node name="FrameTop" type="MeshInstance3D" parent="."]
+transform = Transform3D(-4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 0, 0, 1, 0, 3, 0)
+mesh = SubResource("BoxMesh_x7vam")

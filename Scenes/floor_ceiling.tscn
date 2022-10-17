@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://1ur7x33rigje"]
+
+[ext_resource type="PackedScene" uid="uid://d0tlttdyjte5y" path="res://Scenes/CarpetFloor.tscn" id="1_hmvg0"]
+[ext_resource type="PackedScene" uid="uid://bne2gtiti42n8" path="res://Scenes/ceiling.tscn" id="2_lkwnl"]
+
+[node name="FloorCeiling" type="Node3D"]
+
+[node name="Floor" parent="." instance=ExtResource("1_hmvg0")]
+skeleton = NodePath("../../../..")
+
+[node name="Ceiling" parent="." instance=ExtResource("2_lkwnl")]
+skeleton = NodePath("../../..")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.68212, 0)

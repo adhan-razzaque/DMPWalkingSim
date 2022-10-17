@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://c73fvjm0fn2pc"]
+
+[ext_resource type="PackedScene" uid="uid://1ur7x33rigje" path="res://Scenes/floor_ceiling.tscn" id="1_ir2vs"]
+[ext_resource type="PackedScene" uid="uid://djhhvyuphfw4f" path="res://Scenes/wall_10.tscn" id="2_nodio"]
+
+[node name="Room5" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 20)
+
+[node name="FloorCeiling" parent="." instance=ExtResource("1_ir2vs")]
+
+[node name="Wall_10" parent="." instance=ExtResource("2_nodio")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 1.5, 0)
+
+[node name="Wall_11" parent="." instance=ExtResource("2_nodio")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1.5, 0)
